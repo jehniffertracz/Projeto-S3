@@ -1,0 +1,1 @@
+﻿Arquivo de teste para o trabalho de Amazon S3.
